@@ -16,7 +16,7 @@
 <img src="images/app_figma.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Sites](/pdf/sample_presentation.pdf)
 <img src="images/sites.jpg?raw=true"/>
 
 ### Category Name 2
