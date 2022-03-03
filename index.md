@@ -5,11 +5,11 @@
 
 
 [Flutter APP Redesign](/sample_page)
-<img src="images/figma_app.jpg?raw=true"/>
+<img src="images/flutter.jpg?raw=true"/>
 
 ---
 [PWA React UI](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/react.jpg?raw=true"/>
 
 ---
 [Figma Sketch App](http://example.com/)
