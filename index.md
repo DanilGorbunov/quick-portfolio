@@ -2,30 +2,30 @@
 
 ---
 
-### Category Name 1 
 
-[Project 1 Title](/sample_page)
+
+[Flutter APP Redesign](/sample_page)
 <img src="images/figma_app.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[PWA React UI](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Figma Sketch App](http://example.com/)
 <img src="images/app_figma.jpg?raw=true"/>
 
 ---
-[Sites](/pdf/sample_presentation.pdf)
+[Wordpress Sites](/pdf/sample_presentation.pdf)
 <img src="images/sites.jpg?raw=true"/>
 
-### Category Name 2
+### References
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [PWA React](http://app.xproid.com/)
+- [WP Shop All Ukraine](http://krasiva.ua/)
+- [WP Theatre site](http://www.theatre.org.ua/)
+- [WP Wholesale Shop Odessa](http://lorely.com.ua/)
+
 
 ---
 
