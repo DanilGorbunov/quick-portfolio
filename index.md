@@ -4,7 +4,7 @@
 
 
 
-[Flutter APP Redesign](/sample_page)
+[Flutter App - trying to connect wordpress site to ready solution flutter app](/sample_page)
 <img src="images/flutter.jpg?raw=true"/>
 
 ---
@@ -25,6 +25,7 @@
 - [WP Shop All Ukraine](http://krasiva.ua/)
 - [WP Theatre site](http://www.theatre.org.ua/)
 - [WP Wholesale Shop Odessa](http://lorely.com.ua/)
+- [WP My daughter's Language School](http://auntlilibeth.com/)
 
 
 ---
